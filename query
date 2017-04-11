@@ -1,0 +1,1 @@
+esearch -db pubmed -query "Curcuma longa OR turmeric OR Curcuma domestica OR curcumin  [TIAB] AND CCL4 [GENE] AND human [ORGN]" | efetch -format abstract
